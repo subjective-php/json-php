@@ -1,4 +1,6 @@
 {
+    "name": "subjective-php/json",
+    "description": "Library for working with JSON",
     "config": {
         "sort-packages": true
     },
