@@ -1,5 +1,11 @@
-# Proposal
+---
+name: Feature request
+about: Suggest an idea for this project
 
-# Backwards Breaking Changes
+---
 
+# Proposal                                                                                                              
+                                                                                                                        
+# Backwards Breaking Changes                                                                                            
+                                                                                                                        
 # References
